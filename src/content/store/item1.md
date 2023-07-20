@@ -5,7 +5,7 @@ custom_link_label: "Listen on Audible"
 custom_link: "https://amzn.to/3XYbnez"
 updatedDate: "Jul 20 2023"
 pricing: "$15.68"
-badge: "Featured"
+badge: "Editor's Pick"
 checkoutUrl: "https://amzn.to/3XYbnez"
 heroImage: "sandworm.png"
 ---
