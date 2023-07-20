@@ -3,7 +3,7 @@ title: "Active Measures: The Secret History of Disinformation and Political Warf
 description: "This revelatory and dramatic history of disinformation traces the rise of secret organized deception operations from the interwar period to contemporary internet troll farms."
 custom_link_label: "Listen on Audible"
 custom_link: "https://amzn.to/3Oq8rnW"
-updatedDate: "Weapons & Warfare"
+updatedDate: "Jul 20 2023"
 pricing: "$21.83"
 oldPricing: "$31.18"
 checkoutUrl: "https://amzn.to/3Oq8rnW"
