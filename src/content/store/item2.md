@@ -1,5 +1,5 @@
 ---
-title: "Active Measures: The Secret History of Disinformation and Political Warfare"
+title: "Active Measures by Thomas Rid"
 description: "This revelatory and dramatic history of disinformation traces the rise of secret organized deception operations from the interwar period to contemporary internet troll farms."
 custom_link_label: "Listen on Audible"
 custom_link: "https://amzn.to/3Oq8rnW"
