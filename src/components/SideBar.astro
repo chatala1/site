@@ -4,7 +4,12 @@ import { Image } from "@astrojs/image/components";
 import SideBarMenu from "./SideBarMenu.astro";
 const { sideBarActiveItemID } = Astro.props;
 ---
-
+<style>
+.avatar img {
+  height:70% !important;
+  width:80% !important;
+}
+</style>
 <div class="drawer-side z-40">
   <label for="my-drawer" class="drawer-overlay"></label>
   <aside class="px-2 pt-2 h-auto min-h-full w-[19rem] bg-base-200 text-base-content flex flex-col">
