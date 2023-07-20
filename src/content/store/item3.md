@@ -7,7 +7,7 @@ updatedDate: "Jul 20 2023"
 pricing: "$14.63"
 oldPricing: "$20.99"
 checkoutUrl: "https://amzn.to/3K6F2fD"
-heroImage: "https://m.media-amazon.com/images/I/51tbcsbWT3L.jpg"
+heroImage: "/fifthdomain.png"
 ---
 
 There is much to fear in the dark corners of cyberspace. From well-covered stories like the Stuxnet attack which helped slow Iran's nuclear program, to lesser-known tales like EternalBlue, the 2017 cyber battle that closed hospitals in Britain and froze shipping crates in Germany in midair, we have entered an age in which online threats carry real-world consequences. But we do not have to let autocrats and criminals run amok in the digital realm. We now know a great deal about how to make cyberspace far less dangerous - and about how to defend our security, economy, democracy, and privacy from cyber attack.
