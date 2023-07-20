@@ -7,7 +7,7 @@ updatedDate: "Jul 20 2023"
 pricing: "$21.83"
 oldPricing: "$31.18"
 checkoutUrl: "https://amzn.to/3Oq8rnW"
-heroImage: "https://m.media-amazon.com/images/I/51N4NiERISL.jpg"
+heroImage: "activemeasures.png"
 ---
 
 We live in the age of disinformation - of organized deception. Spy agencies pour vast resources into hacking, leaking, and forging data, often with the goal of weakening the very foundation of liberal democracy: trust in facts. Thomas Rid, a renowned expert on technology and national security, was one of the first to sound the alarm. Even before the 2016 election, he warned that Russian military intelligence was "carefully planning and timing a high-stakes political campaign" to disrupt the democratic process. But as crafty as such so-called active measures have become, they are not new. 
