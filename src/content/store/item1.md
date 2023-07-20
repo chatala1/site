@@ -7,7 +7,7 @@ updatedDate: "Jul 20 2023"
 pricing: "$15.68"
 badge: "Featured"
 checkoutUrl: "https://amzn.to/3XYbnez"
-heroImage: "https://m.media-amazon.com/images/I/61yTgJ-gRuL.jpg"
+heroImage: "sandworm.png"
 ---
 
 In 2014, the world witnessed the start of a mysterious series of cyberattacks. Targeting American utility companies, NATO, and electric grids in Eastern Europe, the strikes grew ever more brazen. They culminated in the summer of 2017, when the malware known as NotPetya was unleashed, penetrating, disrupting, and paralyzing some of the world's largest businesses—from drug manufacturers to software developers to shipping companies. At the attack's epicenter in Ukraine, ATMs froze. The railway and postal systems shut down. Hospitals went dark. NotPetya spread around the world, inflicting an unprecedented ten billion dollars in damage—the largest, most destructive cyberattack the world had ever seen.
