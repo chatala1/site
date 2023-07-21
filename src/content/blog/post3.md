@@ -2,7 +2,7 @@
 title: "Kevin Mitnick, Dead at 59"
 description: "Famed hacker Kevin Mitnick has died after a battle with pancreatic cancer. At the time of his passing, Kevin was serving as the Chief Hacking Officer at security awareness training firm KnowBe4."
 pubDate: "Jul 19 2023"
-heroImage: "/post-img.png"
+heroImage: "https://cdn.thenewstack.io/media/2023/07/686a6022-kevin_mitnick-eneas_de_troya.jpg"
 badge: "Highlight"
 ---
 
