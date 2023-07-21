@@ -5,8 +5,8 @@
     background-color: #2196F3 !important;
 }
 .badge-secondary {
-    background-color: #4834d4 !important;
-    border-color: #4834d4 !important;
+    background-color: #4a69bd !important;
+    border-color: #4a69bd !important;
 }
 .container {
   max-width: 960px;
@@ -27,7 +27,7 @@
   display: block;
   float: left;
   flex: 0 0 auto;
-  margin: 5px;
+  margin: 10px;
 }
 
 
