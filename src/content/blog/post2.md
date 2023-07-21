@@ -2,7 +2,7 @@
 title: "Microsoft is giving out free cybersecurity tools after an alleged Chinese hack"
 description: "Microsoft is offering free cybersecurity tools to some government and commercial customers following criticism of the tech giant’s handling of a major alleged Chinese hack that compromised US government email accounts. "
 pubDate: "Jul 19 2023"
-heroImage: "/post-img.jpg"
+heroImage: "/hacker.png"
 ---
 
 Microsoft has announced a policy change that will benefit its cloud computing customers starting in September. They will no longer be required to pay extra fees to access critical data aimed at helping them identify and combat cyberattacks, according to The Wall Street Journal, which first reported on the change.
