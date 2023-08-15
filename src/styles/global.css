@@ -1,3 +1,5 @@
+html body div.bg-base-100.drawer.lg:drawer-open div.drawer-content.bg-base-100 div.md:flex.md:justify-center main.p-6.pt-10.lg:max-w-[900px].max-w-[100vw] div.rounded-lg.bg-base-100.hover:shadow-xl.transition.ease-in-out.hover:scale-[102%] a div.hero-content.flex-col.md:flex-row img.max-w-full.md:max-w-[13rem].rounded-lg
+
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }
