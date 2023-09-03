@@ -1,17 +1,18 @@
 ---
-title: "The Fifth Domain by Richard Clarke"
-description: "An urgent new warning from two best-selling security experts - and a gripping inside look at how governments, firms, and ordinary citizens can confront and contain the tyrants, hackers, and criminals bent on turning the digital realm into a war zone"
+title: "Relentless Strike: The Secret History of Joint Special Operations Command by Sean Naylor"
+description: "Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that, during the past decade, has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines and those that have remained in the shadows - until now. "
 custom_link_label: "Listen on Audible"
-custom_link: "https://amzn.to/3K6F2fD"
+custom_link: "https://amzn.to/3sARxKO"
 updatedDate: "Jul 20 2023"
-pricing: "$14.63"
-oldPricing: "$20.99"
-checkoutUrl: "https://amzn.to/3K6F2fD"
-heroImage: "/fifthdomain.png"
+pricing: "$21.65"
+oldPricing: "$24.99"
+checkoutUrl: "https://amzn.to/3sARxKO"
+heroImage: ""
 ---
 
-There is much to fear in the dark corners of cyberspace. From well-covered stories like the Stuxnet attack which helped slow Iran's nuclear program, to lesser-known tales like EternalBlue, the 2017 cyber battle that closed hospitals in Britain and froze shipping crates in Germany in midair, we have entered an age in which online threats carry real-world consequences. But we do not have to let autocrats and criminals run amok in the digital realm. We now know a great deal about how to make cyberspace far less dangerous - and about how to defend our security, economy, democracy, and privacy from cyber attack.
- 
-Clarke and Knake take us inside quantum-computing labs racing to develop cyber superweapons; bring us into the boardrooms of the many firms that have been hacked and the few that have not; and walk us through the corridors of the US intelligence community with officials working to defend America's elections from foreign malice. With a focus on solutions over scaremongering, they make a compelling case for "cyber resilience" - building systems that can resist most attacks, raising the costs on cyber criminals and the autocrats who often lurk behind them, and avoiding the trap of overreaction to digital attacks.  
+Since the attacks of September 11, one organization has been at the forefront of America's military response. Its efforts turned the tide against al-Qaida in Iraq, killed Bin Laden and Zarqawi, rescued Captain Phillips, and captured Saddam Hussein. Its commander can direct cruise missile strikes from nuclear submarines and conduct special operations raids anywhere in the world.
 
-Above all, Clarke and Knake show us how to keep the fifth domain a humming engine of economic growth and human progress by not giving in to those who would turn it into a wasteland of conflict. Backed by decades of high-level experience in the White House and the private sector, The Fifth Domain delivers a riveting, agenda-setting insider look at what works in the struggle to avoid cyberwar.
+Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that, during the past decade, has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines and those that have remained in the shadows - until now. Because JSOC includes the military's most storied special operations units - Delta Force, SEAL Team Six, the 75th Ranger Regiment - as well as America's most secret aviation and intelligence units, this is their story, too.
+
+Relentless Strike reveals tension-drenched meetings in war rooms from the Pentagon to Iraq and special operations battles from the cabin of an MH-60 Black Hawk to the driver's seat of Delta Force's Pinzgauer vehicles as they approach their targets. Through exclusive interviews, reporter Sean Naylor uses his unique access to reveal how an organization designed in the 1980s for a very limited mission set transformed itself after 9/11 to become the military's premier weapon in the war against terrorism and how it continues to evolve today.
+
