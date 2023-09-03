@@ -1,5 +1,5 @@
 ---
-title: "Relentless Strike"
+title: "Relentless Strikeby Sean Naylor"
 description: "Relentless Strike tells the inside story of Joint Special Operations Command, the secret military organization that, during the past decade, has revolutionized counterterrorism, seamlessly fusing intelligence and operational skills to conduct missions that hit the headlines and those that have remained in the shadows - until now. Because JSOC includes the military's most storied special operations units - Delta Force, SEAL Team Six, the 75th Ranger Regiment - as well as America's most secret aviation and intelligence units, this is their story, too. "
 custom_link_label: "Listen on Audible"
 custom_link: "https://amzn.to/45y8hRp"
