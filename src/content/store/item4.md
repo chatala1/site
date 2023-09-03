@@ -6,8 +6,8 @@ custom_link: "https://amzn.to/45y8hRp"
 updatedDate: "Jul 20 2023"
 pricing: "$16.49"
 oldPricing: "$19.99"
-checkoutUrl: "[https://amzn.to/3K6F2fD](https://amzn.to/45y8hRp)"
-heroImage: "![51y7KqjYjrL](https://github.com/chatala1/site/assets/16328550/076c0542-0397-4da2-a00a-a22cfd18189e)
+checkoutUrl: "https://amzn.to/45y8hRp"
+heroImage: "![51y7KqjYjrL](https://github.com/chatala1/site/assets/16328550/076c0542-0397-4da2-a00a-a22cfd18189e)"
 "
 ---
 
